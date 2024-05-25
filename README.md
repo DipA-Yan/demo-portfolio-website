@@ -8,6 +8,9 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
+
+#### Watch it live here - [hailee.netlify.app](https://hailee.netlify.app/)
+
 <br>
 
 ## This is how it looks
